@@ -3,6 +3,7 @@
 
 # Not written by hand
 packages/react-art/npm/lib
+packages/react-art/npm/lib
 
 # Build products
 build/
