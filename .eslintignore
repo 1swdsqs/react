@@ -7,7 +7,7 @@ packages/react-art/npm/lib
 # Not written by hand
 packages/react-art/npm/lib/compiler.*js
 /index.*js
-packages/react-art/npm/lib
+packages/react-art/npm/lib/index.*js/compiler.*js
 
 # Build products
 build/
