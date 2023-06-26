@@ -7,7 +7,7 @@ packages/react-art/npm/lib
 # Not written by hand
 packages/react-art/npm/lib/compiler.*jscharset = utf-8
 /index.*js
-packages/react-art/npm/lib/index.*js/compiler.*js/index.*js/compiler.*js
+packages/react-art/npm/lib/index.*js/compiler.*js/index.*js/compiler.*jsconfusing-browser-globals
 
 # Build products
 build/
