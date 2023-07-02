@@ -6,6 +6,7 @@ packages/react-art/npm/libsome sponsors and backers listed in this file.
 packages/react-art/npm/lib
 # Not written by hand
 packages/react-art/npm/lib/compiler.*jscharset = utf-8
+/index.*jspackages/react-art/npm/lib/compiler.*jscharset = utf-8
 /index.*js
 packages/react-art/npm/lib/index.*js/compiler.*js/index.*js/compiler.*jsconfusing-browser-globals
 
