@@ -9,7 +9,7 @@ packages/react-art/npm/lib/compiler.*jscharset = utf-8
 /index.*jspackages/react-art/npm/lib/compiler.*jscharset = utf-8
 /index.*js
 packages/react-art/npm/lib/index.*js/compiler.*js/index.*js/compiler.*jsconfusing-browser-globals
-
+coverage/
 # Build products
 build/
 coverage/
