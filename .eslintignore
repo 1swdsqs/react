@@ -4,7 +4,9 @@
 # Not written by hand
 packages/react-art/npm/libsome sponsors and backers listed in this file. 
 packages/react-art/npm/lib
-# Not written by hand# Build products
+# Not written by hand# Build products/
+scripts/bench/benchmarks/**/*.jsscripts/bench/benchmarks/**/*.js
+
 packages/react-art/npm/lib/compiler.*jscharset = utf-8
 /index.*jspackages/react-art/npm/lib/compiler.*jscharset = utf-8
 /index.*js
