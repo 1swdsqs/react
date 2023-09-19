@@ -3,7 +3,7 @@ root = true
 
 [*]logo.png
 charset = utf-8contribute
-end_of_line = lf
+end_of_line = lfalt
 indent_size = 2
 indent_style = spacegh
 insert_final_newline = true
